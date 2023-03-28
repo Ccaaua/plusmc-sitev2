@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=K2D');
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+@import url('https://fonts.googleapis.com/css?family=KoHo');
+
+.tabela3{
+	width:50%;
+	float:left;
+	padding: 5px;
+}
+
+.tabela4{
+	width:50%;
+	float: right;
+    padding: 5px;
+}
+
+
+.informacao1{
+	padding-top:10px;
+	font-family: 'K2D', sans-serif;
+	padding-bottom:10px;
+	}
+
+
+.borda1{
+	padding-top:24px;
+	padding-bottom:24px;
+}
+
+.branco1{
+	text-align:center;
+	background-color: #000;
+	color: #fff;
+}
+
+.preto1{
+	color:#fff;
+	background-color:#000;
+	padding-left: 10px;
+	padding-right:10px;
+	font-family: 'Charmonman', cursive;
+	padding: 30px;
+	font-size:24px;
+}
+

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Thasadith');
+
+#conteudo{
+  /*Novamente definimos a largura da div*/
+  width: all;
+  /* altura da div */
+  height:500px;
+  /* Cor de fundo da div */
+  background-color:#0066CC;  
+    font-family: 'Thasadith', sans-serif;
+}
+
+#info{
+  /*Novamente definimos a largura da div*/
+  width: all;
+  /* altura da div */
+  height:800px;
+  /* Cor de fundo da div */
+  background-color:#fff; 
+    font-family: 'Thasadith', sans-serif;
+} 
+
+
+
+.item1{
+float: left;
+
+text-align: center;
+width: 33%;
+  font-family: 'Thasadith', sans-serif;
+padding: 25px;
+}
+
+.item2{
+float: left;
+text-align: center;
+  font-family: 'Thasadith', sans-serif;
+width: 33%;
+padding: 25px;
+}
+
+.item3{
+float: left;
+text-align: center;
+  font-family: 'Thasadith', sans-serif;
+width: 33%;
+padding: 25px;
+}
+
+
+
+#colunazera{
+	text-align: center;
+    font-family: 'Thasadith', sans-serif;
+
+}
